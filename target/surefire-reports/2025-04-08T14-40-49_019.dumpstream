@@ -1,0 +1,5 @@
+# Created at 2025-04-08T14:40:49.382
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Aditya Task\Book-My-Show\Book-My-Show\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
