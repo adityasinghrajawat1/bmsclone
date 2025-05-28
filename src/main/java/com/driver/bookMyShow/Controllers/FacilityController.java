@@ -29,7 +29,7 @@ public class FacilityController {
                 .build();
         return new ResponseEntity<>(response, HttpStatus.CREATED);
     }
-
+//
     @GetMapping
     public ResponseEntity<ApiResponse<List<ReturnFacilityDto>>> getAllFacility() {
         List<ReturnFacilityDto> returnFacilityDtoList = facilityService.getAllFacilityService();
@@ -41,7 +41,7 @@ public class FacilityController {
                 .build();
         return new ResponseEntity<>(response, HttpStatus.OK);
     }
-
+//
     @DeleteMapping("/{facilityId}")
     public ResponseEntity<ApiResponse<String>> deleteFacility(@PathVariable String facilityId) {
         String msg = facilityService.deleteFacilityService(facilityId);
