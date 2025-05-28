@@ -1,4 +1,4 @@
-package com.driver.bookMyShow.Controllers;
+package com.driver.bookMyShow.controller;
 
 import com.driver.bookMyShow.Dtos.RequestDtos.FacilityEntryDto;
 import com.driver.bookMyShow.Dtos.ResponseDtos.ReturnFacilityDto;

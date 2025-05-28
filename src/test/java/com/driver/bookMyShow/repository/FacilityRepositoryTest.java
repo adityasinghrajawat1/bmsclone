@@ -1,4 +1,4 @@
-package com.driver.bookMyShow.Repositories;
+package com.driver.bookMyShow.repository;
 
 import com.driver.bookMyShow.Models.Facility;
 import org.assertj.core.api.Assertions;
