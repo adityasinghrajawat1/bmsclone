@@ -1,6 +1,7 @@
 package com.driver.bookMyShow.repository;
 
 import com.driver.bookMyShow.Models.Facility;
+import com.driver.bookMyShow.Repositories.FacilityRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,5 +1,6 @@
 package com.driver.bookMyShow.controller;
 
+import com.driver.bookMyShow.Controllers.FacilityController;
 import com.driver.bookMyShow.Dtos.RequestDtos.FacilityEntryDto;
 import com.driver.bookMyShow.Dtos.ResponseDtos.ReturnFacilityDto;
 import com.driver.bookMyShow.Services.FacilityService;
