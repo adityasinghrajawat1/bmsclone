@@ -6,6 +6,7 @@ import com.driver.bookMyShow.Exceptions.AlreadyPresentException;
 import com.driver.bookMyShow.Exceptions.NotFoundException;
 import com.driver.bookMyShow.Models.Facility;
 import com.driver.bookMyShow.Repositories.FacilityRepository;
+import com.driver.bookMyShow.ServiceImpl.FacilityServiceImpl;
 import com.driver.bookMyShow.Services.TheaterFacilityService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
