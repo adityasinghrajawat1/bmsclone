@@ -1,4 +1,4 @@
-package com.driver.bookMyShow.ServiceImpl;
+package com.driver.bookMyShow.service;
 
 import com.driver.bookMyShow.Dtos.RequestDtos.FacilityEntryDto;
 import com.driver.bookMyShow.Dtos.ResponseDtos.ReturnFacilityDto;
