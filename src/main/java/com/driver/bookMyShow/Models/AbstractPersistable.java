@@ -22,7 +22,7 @@ public class AbstractPersistable implements Serializable {
     @Id
     private String id;
 
-    @Column(name = "CREATED_AT")
+    @Column(name = "CREATED_AT", nullable = false, updatable = false)
     @CreationTimestamp
     private LocalDateTime createdAt;
 
